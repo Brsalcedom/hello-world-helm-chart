@@ -30,7 +30,7 @@ pod:
   branch: main
   selectorMatchLabelApp: my-app
   templateLabelApp: my-template-app
-  containerImageRegistrySource: my-registry/hello-world:latest
+  containerImageRegistrySource: ealen/echo-server:latest
   imagePullPolicy: Always
   containerName: my-container
   containerPort: 3000

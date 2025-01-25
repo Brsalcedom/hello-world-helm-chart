@@ -27,7 +27,7 @@ spec:
   replicas: {{ .Values.pod.replicas }}
   selector:
     matchLabels:
-      app: "{{ .Values.pod.selectorMatchLabelApp }}"
+      app: "{{ .Values.pod.label }}"
   template:
     metadata:
       annotations:
