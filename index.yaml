@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-world-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-25T23:03:16.59331019Z"
+    description: A PoC Helm chart for deploying a Node.js REST API
+    digest: 8c461edb462eef59c1cc6e5779cc86ff565af648cd5b42e18de41c27aebd05eb
+    name: hello-world-helm-chart
+    type: application
+    urls:
+    - https://brsalcedom.github.io/hello-world-helm-chart/hello-world-helm-chart-1.0.3.tgz
+    version: 1.0.3
+generated: "2025-01-25T23:03:16.592097536Z"

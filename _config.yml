@@ -1,0 +1,8 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html>
+<head><title>Blue Express Helm Charts</title></head>
+<body><pre>{{ content }}</pre></body>
+</html>
