@@ -50,7 +50,7 @@ jobs:
       - name: Package Helm Chart
         run: |
           mkdir -p .cr-release-packages
-          helm package ${{ github.event.repository.name }} --destination .cr-release-packages
+          helm package charts --destination .cr-release-packages
 
       - name: Checkout gh-pages
         uses: actions/checkout@v4
