@@ -2,5 +2,5 @@ apiVersion: v2
 name: hello-world-helm-chart
 description: A PoC Helm chart for deploying a Node.js REST API
 type: application
-version: 1.0.3
+version: 1.0.4
 appVersion: "1.16.0"
