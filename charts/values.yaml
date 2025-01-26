@@ -37,7 +37,7 @@ pod:
   containerProtocol: TCP
   msVersionVariable: BX_MS_VERSION
   msVersionValue: "1.0.0"
-  environment: production
+  environment: sbx
   iamServiceAccount: my-service-account
   resources:
     requests:
