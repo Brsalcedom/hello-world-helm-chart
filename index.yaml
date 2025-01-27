@@ -3,9 +3,9 @@ entries:
   hello-world-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-27T15:35:14.621104271Z"
+    created: "2025-01-27T15:35:25.876424861Z"
     description: A PoC Helm chart for deploying a Node.js REST API
-    digest: c291975d0e5900ea862ba6c74d4e7f7136568506a133f554adb18891b44a296d
+    digest: 8f63de5b37501a9648f33490e9a92a16b0d22aa444366901806bda7a8b26f904
     name: hello-world-helm-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-27T15:35:14.62077639Z"
+    created: "2025-01-27T15:35:25.87607745Z"
     description: A PoC Helm chart for deploying a Node.js REST API
     digest: 9056d6847f221b17f8afef1cf907dd73b8ce01cd6ac12e8bb9f01cba0638f06c
     name: hello-world-helm-chart
@@ -23,7 +23,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-27T15:35:14.62045975Z"
+    created: "2025-01-27T15:35:25.875789601Z"
     description: A PoC Helm chart for deploying a Node.js REST API
     digest: bbf0e84d852712c6cb44e87e54cb9e32c79c03ce8964baa12de7e65f1ab38f70
     name: hello-world-helm-chart
@@ -33,7 +33,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-27T15:35:14.620134664Z"
+    created: "2025-01-27T15:35:25.875475954Z"
     description: A PoC Helm chart for deploying a Node.js REST API
     digest: 1eda23512d0bc65d2852ae3021d4b00d39dd0eab9cf50deb92540bb9fb6bda51
     name: hello-world-helm-chart
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://brsalcedom.github.io/hello-world-helm-chart/hello-world-helm-chart-1.0.3.tgz
     version: 1.0.3
-generated: "2025-01-27T15:35:14.618957412Z"
+generated: "2025-01-27T15:35:25.87427042Z"
